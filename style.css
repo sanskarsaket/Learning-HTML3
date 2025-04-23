@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+.heading1{
+    background-color: aqua;
+}
+.head2{
+    color: red;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: dotted;
+    text-shadow: 3px 4px 5px blue;
+}
+.head3{
+    color: green;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: line-through;
+}
