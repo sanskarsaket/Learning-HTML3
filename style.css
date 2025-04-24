@@ -1,5 +1,5 @@
 body{
-    background-color: yellow;
+    background-color: lightcoral;
 }
 .heading1{
     background-color: aqua;
@@ -12,10 +12,17 @@ body{
     text-decoration-color: blue;
     text-decoration-style: dotted;
     text-shadow: 3px 4px 5px blue;
+    text-align: center;
 }
 .head3{
     color: green;
     font-size: 30px;
     font-style: italic;
     text-decoration: line-through;
+}
+.para{
+    font-weight: bold; 
+}
+.head4{
+    font-family: Verdana;
 }
