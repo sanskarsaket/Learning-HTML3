@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.parent{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+}
+.parent ul{
+    color: white;
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.parent ul li{
+    background-color: red;
+    padding: 8px;
+    border-radius: 5px;
+}
