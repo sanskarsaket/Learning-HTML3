@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    font-size: 60px;
+}
+.btn{
+    padding: 30px;
+}
+@media screen and (max-width: 500px) {
+    body{
+        background-color: yellow;
+    }
+    h1{
+        font-size: 30px;
+        color: blue;
+    }
+    .btn{
+        padding: 0;
+    }
+    img{
+        display: none;
+    }
+    
+}

@@ -1,0 +1,20 @@
+.head{
+    font-family: "Baloo Bhaina 2", sans-serif;
+}
+.head1{
+    font-family: "Poppins", sans-serif;
+}
+.head2{
+    font-family: "Tagesschrift", system-ui;
+}
+.wrapper{
+    background-color: yellow;
+    height: 400px;
+}
+.ch1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 50px;
+}

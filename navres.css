@@ -1,0 +1,14 @@
+.navbar{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+.navbar label{
+    display: none;
+}
